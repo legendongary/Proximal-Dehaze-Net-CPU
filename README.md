@@ -22,6 +22,8 @@ There are 3 trained models:
 
 These models are evaluated respectively by function `cnn_ours_eval`, `cnn_reside_s1_eval` and `cnn_s2_eval`.
 
+The code is tested on Ubuntu 16.04 with Matlab R2018a. It should work well on other operating systems like Windows. And for any problem on compiling MatConvNet package, please refer to http://www.vlfeat.org/matconvnet/ or contact me at: yangdong2010@stu.xjtu.edu.cn.
+
 If a GPU device is available, it is recommended to use the GPU version of our dehazing network: https://github.com/legendongary/Proximal-Dehaze-Net-GPU.
 
 
