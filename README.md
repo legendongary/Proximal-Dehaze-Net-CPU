@@ -26,5 +26,6 @@ The code is tested on Ubuntu 16.04 with Matlab R2018a. It should work well on ot
 
 If a GPU device is available, it is recommended to use the GPU version of our dehazing network: https://github.com/legendongary/Proximal-Dehaze-Net-GPU.
 
+### Update
 
-
+Supplementary material is added: https://github.com/legendongary/Proximal-Dehaze-Net-GPU/blob/master/supplementary-material.pdf
